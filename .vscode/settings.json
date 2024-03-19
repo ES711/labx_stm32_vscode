@@ -1,0 +1,11 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "main.h": "c",
+    "gpio.h": "c",
+    "freertos.h": "c",
+    "stm32f4xx_hal.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

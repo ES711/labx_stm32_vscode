@@ -1,0 +1,3 @@
+C:/Users/rs040/STM32CubeIDE/workspace_1.15.0/labx_stm32_vscode/build/debug/build/CMakeFiles/labx_stm32_vscode.dir
+C:/Users/rs040/STM32CubeIDE/workspace_1.15.0/labx_stm32_vscode/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/rs040/STM32CubeIDE/workspace_1.15.0/labx_stm32_vscode/build/debug/build/CMakeFiles/rebuild_cache.dir
